@@ -1,0 +1,45 @@
+.first-slider {
+  margin: 100px 100px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 150%;
+}
+
+.second-slider {
+  margin: 100px 100px;
+}
+
+.third-slider {
+  margin: 100px 100px;
+}
+
+.img-dogo {
+  margin: 10px 150px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+span {
+  margin: 30px 150px;
+}
+
+.btn-next {
+}
+
+.btn-prev {
+}
+
+.swiper {
+}
+.mySwiper {
+}
+.swiper-wrapper {
+}
+.swiper-slide {
+}
